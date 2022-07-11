@@ -1,1 +1,1 @@
-Info:
+Info: Web scraper which scrapes all betting data from all UK & Irish horse racing meetings. Once the data is scraped, the script runs a set of user defined logical checks (good place terms, mispriced horse) on each individual race and appends the race to the output if it meets any of the criterion. The final list is then sent by email to my personal email address via the SendGrid API.
